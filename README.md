@@ -1,4 +1,4 @@
-TODO: add test (PaperfaxIndex.t.sol)
+TODO: add test (FuturePrizes.t.sol)
 
 # [DappTools](https://github.com/dapphub/dapptools) Setup
 Installs globally, so only need to do this once ever!
